@@ -1,18 +1,8 @@
-# Travel-Management-System
+The Travel Management System is a web-based project developed by me as a mini project during my final year of high school. The system was built using HTML, CSS, JavaScript, PHP, and MySQL.
+The website features a user-friendly Sign Up and Sign In system, where users can enter their personal details and create an account. The registered information is securely stored in a database using PHP and MySQL queries.
+The website also has an attractive home page where users can explore various travel destinations and view detailed information about each place. A dedicated Gallery section allows users to browse beautiful images of different destinations.
+The system includes an Admin Login panel, through which the administrator can manage customer and travel agent information, as well as add new destinations and hotels to the system.
+Another important feature is the Tour Booking page, where users can enter their details and book their desired tours. The website also includes a Feedback section, allowing users to share their valuable feedback and suggestions with the developer.
+Overall, this project helped me gain practical experience in web development, database management, PHP programming, and designing user-friendly interfaces.
 
-This is a Travel Management System Project build by using html, css, javascript, php, MySQL as mini project in my final year of high school.
-This website has cool SignUp/SignIn page where you can enter your details and SignUp.
-It stores your data in the database using php and MySQL queries.
-This website has a cool front page where you can see many destinations, you can also get the data about each place.
-There is also a galery section where you can see the beautiful pictures of all the destinations.
-This website also has the admin login admin can get the information of the customers, travel agents, also can add new places, hotels.
-There is cool and nice booking page where you can book your tour by entering your details.
-This website also has a feedback section where you can give your feedback to the developer.
-
-
-create database called "travel", don't give any other name,
-if you want different name for database then make sure that you change database ame in code also
-
-database file also provided
-
-Thank You....
+Thank you!
